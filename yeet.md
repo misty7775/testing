@@ -57,4 +57,4 @@ they all are code languages involving markup.
 -i value good useage of resourses and code is one of them 
 
 16. Describe how CSE1210 may connect to your future occupational choices.
-i can make website for a company in the future.
+i can make website for a company in the future. 
